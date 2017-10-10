@@ -15,10 +15,22 @@
 
 ## HTML
 
-### 1. Code ด้านล่างนี้ ผิดอะไรของหลัก W3C? อธิบายสั้นๆ
+### 1. This code was invalid with W3C principle, how?
 
 ![W3C](./img/html1.png?raw=true "W3C")
 
-### 2. จงบอกว่า HTML ด้านล่างนี้ผิดที่ตรงไหน
+### 2. What's wrong with this code?
 
 ![FORM](./img/html2.png?raw=true "form")
+
+### 3. What different between we placed <script> tag before end of head and body?
+
+### 4. Tell me what different between ID(#) and class(.)
+
+### 5. Write CSS for this code to show horizontal navigation
+
+![Menu](./img/html5.jpg?raw=true "Horizontal structure")
+
+_result_
+
+![Menu](./img/html5-2.jpg?raw=true "Horizontal menu")
