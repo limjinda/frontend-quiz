@@ -26,7 +26,7 @@ __result__
 
 ## CSS
 
-### 1. How this code affect to <a> tag?
+### 1. How this code affect to a tag?
 
 ![affect](./img/css1.jpg?raw=true "Affect on a tag")
 
@@ -48,7 +48,7 @@ and tell me what color of "It's Me!" will show up on the screen
 
 ### 6. Write a media query for this HTML tag
 * for the screen above 768px
-* to perform text to show in white with black background
+* to perform text to show in white on black background
 
 ![media query](./img/css6.jpg?raw=true "Media query")
 
