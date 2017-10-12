@@ -1,6 +1,6 @@
 # Front-end Quiz
 
-Last updated: 10/10/2017
+Last updated: 12/10/2017
 
 ## HTML
 
@@ -66,4 +66,4 @@ and tell me what color of "It's Me!" will show up on the screen
 
 ### 4. Synchronous VS Asynchronous VS Defer, what's different between them?
 
-### 5. Above the fold? above the.. what? 
+### 5. Above the fold.. what is that? 
