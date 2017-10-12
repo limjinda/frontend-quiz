@@ -52,8 +52,18 @@ and tell me what color of "It's Me!" will show up on the screen
 
 ![media query](./img/css6.jpg?raw=true "Media query")
 
+### 7. What is critical-CSS?
+
 ## JavaScript
 
 ### 1. What different between window.load and document.ready?
 
 ![jquery basic](./img/js1.jpg?raw=true "jQuery basic")
+
+### 2. What is Grunt, Gulp and Webpack?
+
+### 3. Give me 3 pros and cons of AJAX
+
+### 4. Synchronous VS Asynchronous VS Defer, what's different between them?
+
+### 5. Above the fold? above the.. what? 
