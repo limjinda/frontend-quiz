@@ -26,7 +26,7 @@
 
 ### 1. How this code affect to a tag?
 
-✅ Nothing. becasuse the default `a` tag is inline element, margin will affect only block element.
+✅ Nothing. because the default `a` tag is inline element, margin will affect only block element.
 
 ### 2. Write a shorthand margin of this syntax
 
